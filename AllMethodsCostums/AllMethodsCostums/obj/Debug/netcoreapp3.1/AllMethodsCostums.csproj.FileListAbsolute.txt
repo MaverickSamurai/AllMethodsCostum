@@ -1,0 +1,14 @@
+C:\Users\mirsamirba\Desktop\AllMethodsCostums\AllMethodsCostums\AllMethodsCostums\bin\Debug\netcoreapp3.1\AllMethodsCostums.exe
+C:\Users\mirsamirba\Desktop\AllMethodsCostums\AllMethodsCostums\AllMethodsCostums\bin\Debug\netcoreapp3.1\AllMethodsCostums.deps.json
+C:\Users\mirsamirba\Desktop\AllMethodsCostums\AllMethodsCostums\AllMethodsCostums\bin\Debug\netcoreapp3.1\AllMethodsCostums.runtimeconfig.json
+C:\Users\mirsamirba\Desktop\AllMethodsCostums\AllMethodsCostums\AllMethodsCostums\bin\Debug\netcoreapp3.1\AllMethodsCostums.runtimeconfig.dev.json
+C:\Users\mirsamirba\Desktop\AllMethodsCostums\AllMethodsCostums\AllMethodsCostums\bin\Debug\netcoreapp3.1\AllMethodsCostums.dll
+C:\Users\mirsamirba\Desktop\AllMethodsCostums\AllMethodsCostums\AllMethodsCostums\bin\Debug\netcoreapp3.1\AllMethodsCostums.pdb
+C:\Users\mirsamirba\Desktop\AllMethodsCostums\AllMethodsCostums\AllMethodsCostums\obj\Debug\netcoreapp3.1\AllMethodsCostums.csproj.AssemblyReference.cache
+C:\Users\mirsamirba\Desktop\AllMethodsCostums\AllMethodsCostums\AllMethodsCostums\obj\Debug\netcoreapp3.1\AllMethodsCostums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirsamirba\Desktop\AllMethodsCostums\AllMethodsCostums\AllMethodsCostums\obj\Debug\netcoreapp3.1\AllMethodsCostums.AssemblyInfoInputs.cache
+C:\Users\mirsamirba\Desktop\AllMethodsCostums\AllMethodsCostums\AllMethodsCostums\obj\Debug\netcoreapp3.1\AllMethodsCostums.AssemblyInfo.cs
+C:\Users\mirsamirba\Desktop\AllMethodsCostums\AllMethodsCostums\AllMethodsCostums\obj\Debug\netcoreapp3.1\AllMethodsCostums.csproj.CoreCompileInputs.cache
+C:\Users\mirsamirba\Desktop\AllMethodsCostums\AllMethodsCostums\AllMethodsCostums\obj\Debug\netcoreapp3.1\AllMethodsCostums.dll
+C:\Users\mirsamirba\Desktop\AllMethodsCostums\AllMethodsCostums\AllMethodsCostums\obj\Debug\netcoreapp3.1\AllMethodsCostums.pdb
+C:\Users\mirsamirba\Desktop\AllMethodsCostums\AllMethodsCostums\AllMethodsCostums\obj\Debug\netcoreapp3.1\AllMethodsCostums.genruntimeconfig.cache
